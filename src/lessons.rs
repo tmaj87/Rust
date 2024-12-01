@@ -66,5 +66,5 @@ fn iterate_every_bit_of_world() {
 }
 
 fn concurrency_in_rust() {
-    "you got to see this man!";
+    "You got to see this man! Tokyo!";
 }
