@@ -12,6 +12,10 @@ fn get_data() -> () {
     response.unwrap().text().unwrap();
 }
 
+fn profitability_score() {
+    // ...
+}
+
 pub fn analyse() {
     let result = get_data();
     println!("Result: {:?}", result);
